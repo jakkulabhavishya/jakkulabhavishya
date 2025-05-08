@@ -25,7 +25,7 @@ I'm an aspiring engineer with a strong academic foundation and hands-on experien
 
 | Degree     | Institution                     | Year  | Percentage |
 |------------|----------------------------------|-------|-------------|
-| B.Tech (ECE) | JNTUH, AVIH                     | 2025  | 77%         |
+| B.Tech (ECE) |  AVIH  (JNTUH)                     | 2025  | 77%         |
 | Diploma (ECE) | GPT SDPT (SBTET)               | 2022  | 94%         |
 | SSC         | TSMS MANDEPALLY (TSBSE)         | 2019  | 93%         |
 
