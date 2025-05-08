@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jakkula Bhavishya
 
-🎓 **Electronics and Communication Engineering (ECE)** student at JNTUH, graduating in 2025.  
+🎓 **Electronics and Communication Engineering (ECE)** student at Avanthi institute of, graduating in 2025.  
 🔧 Passionate about IoT, circuit design, embedded systems, and technology-driven innovation.  
 🚀 Actively seeking opportunities to apply my knowledge and grow through real-world challenges.
 
